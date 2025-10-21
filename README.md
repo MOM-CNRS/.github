@@ -1,1 +1,1 @@
-# .github
+# MOM-CNRS
